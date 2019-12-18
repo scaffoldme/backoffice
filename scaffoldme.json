@@ -10,7 +10,7 @@
     }
   },
   "modulesVersions": [],
-   "entities": [
+  "entities": [
     {
       "name": "user",
       "attributes": [
