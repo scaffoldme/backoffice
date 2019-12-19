@@ -2,9 +2,10 @@
   "name": "backoffice",
   "description": "test",
   "framework": {
-    "id": 2,
     "name": "Loopback",
-    "version": "4.0"
+    "version": "4.0",
+    "technologyId": 4,
+    "versionId": 2
   },
   "modulesVersions": [],
   "entities": [
