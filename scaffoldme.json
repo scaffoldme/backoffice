@@ -7,7 +7,7 @@
     "technologyId": 4,
     "versionId": 2
   },
-  "modulesVersions": [],
+  "modules": [],
   "entities": [
     {
       "name": "user",
