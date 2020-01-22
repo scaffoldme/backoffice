@@ -2,8 +2,8 @@
   "name": "backoffice",
   "description": "test",
   "framework": {
-    "name": "Loopback",
-    "version": "4.0",
+    "technologyName": "Loopback",
+    "versionName": "4.0",
     "technologyId": 4,
     "versionId": 2
   },
