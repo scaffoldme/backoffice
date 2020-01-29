@@ -24,6 +24,7 @@
           "name": "friends",
           "foreignKey": "id",
           "primaryKey": "userId",
+          "model": "user",
           "type": "hasMany"
         }
       ]
