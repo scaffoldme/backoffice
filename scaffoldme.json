@@ -19,7 +19,14 @@
           "isUnique": true
         }
       ],
-      "relations": []
+      "relations": [
+        {
+          "name": "friends",
+          "foreignKey": "id",
+          "primaryKey": "userId",
+          "type": "hasMany"
+        }
+      ]
     }
   ]
 }
