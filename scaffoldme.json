@@ -18,7 +18,8 @@
           "isRequired": true,
           "isUnique": true
         }
-      ]
+      ],
+      "relations": []
     }
   ]
 }
