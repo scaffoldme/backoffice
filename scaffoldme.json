@@ -3,9 +3,9 @@
   "description": "test",
   "framework": {
     "technologyName": "Loopback",
-    "versionName": "4.0",
-    "technologyId": 4,
-    "versionId": 2
+    "versionName": "4.0.0",
+    "technologyId": 11,
+    "versionId": 11
   },
   "modules": [],
   "entities": [
